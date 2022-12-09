@@ -1,0 +1,1 @@
+echo 'export PATH=${PATH}:/usr/local/mysql/bin' >> ~/.zshrc && source ~/.zshrc
