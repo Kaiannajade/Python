@@ -41,7 +41,8 @@ my_user.display_info()
 
 my_user2 = User("Jada","Naomi","jnaomi@gmail.com",18)
     
-my_user2.display_info()    
+my_user2.display_info()  
+print("test")  
 
 
 
